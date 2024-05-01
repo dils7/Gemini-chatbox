@@ -1,0 +1,1 @@
+ C:\\Users\\dilas\\Documents\\gemini-pro-chatbot-flutter\\.dart_tool\\flutter_build\\271dd726c9bf235626c5042b24bc96e1\\native_assets.yaml: 
